@@ -34,6 +34,12 @@ p {
     background-color: var(--color-sub);
 }
 
+.buttons{
+    margin: auto;
+    text-align: center;
+}
+
+
 .shape {
     position: relative;
     width: 300px;
